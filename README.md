@@ -7,7 +7,7 @@
 
 ## Course Description:
 
-This class will teach you the fundamentals of JavaScript.  We will then get acquainted with the JQuery library and use  this knowledge as a basis for extending the functionality of websites built with HTML and CSS.     
+This class will teach you the fundamentals of JavaScript and help you develop the skills to extend the functionality of your HTML and CSS.
 
 ## Pre-Requisites:
 
@@ -24,49 +24,49 @@ This class will teach you the fundamentals of JavaScript.  We will then get acqu
 
 ### Syllabus
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 1 | Introduction to JavaScript Datatypes |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
  
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 2 |  |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 3 |  |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 4 | |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 5 |  |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 6 | |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 7 | |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
 | assignment    |  |
 
-| Week 1 | The JavaScript Environment, Variables, Assignment, Logging, Conditionals |
+| Week 8 | |
 |:-------------:|:-----|
 | reading     |  |
 |             | |
