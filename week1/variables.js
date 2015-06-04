@@ -15,3 +15,5 @@ var lastName = 'Gates';
 var fullName = firstName + ',' + lastName;
 var age = 23;
 var ofVotingAge = true;
+
+console.log(fullName);
