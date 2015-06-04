@@ -11,6 +11,9 @@ This class will teach you the fundamentals of JavaScript and help you develop th
 
 The first three weeks will be focused on the JavaScript language.  The remaining five will focus on adapting our JavaScript knowledge to the browser environment as well as learning to use the JQuery library.
 
+## Tools and Workflow
+
+Check out this screencast for a run-through of the Tools we're going to use in this course: [Tools & Workflow](https://www.youtube.com/watch?v=UqBG35oWdlE&feature=youtu.be)
 ## Pre-Requisites:
 
 + A working knowledge of HTML and CSS (you should know how to put elements on a page and style them with CSS).  If you don't know HTML and CSS at the start of the course, you can use the first few weeks to catch up, as we will be solely devoting our time to learning JavaScript then.  I recommend [Shay Howe's website] (http://learn.shayhowe.com) for a comprehensive and practical guide to HTML/CSS.
