@@ -7,7 +7,9 @@
 
 ## Course Description:
 
-This class will teach you the fundamentals of JavaScript and help you develop the skills to extend the functionality of your HTML and CSS.  The first three weeks will be focused on the JavaScript language.  The remaining five will be focus on adapting our JavaScript knowledge to the browser environment as well as learning to use the JQuery JavaScript library.
+This class will teach you the fundamentals of JavaScript and help you develop the skills to extend the functionality of your HTML and CSS.  
+
+The first three weeks will be focused on the JavaScript language.  The remaining five will be focus on adapting our JavaScript knowledge to the browser environment as well as learning to use the JQuery JavaScript library.
 
 ## Pre-Requisites:
 
