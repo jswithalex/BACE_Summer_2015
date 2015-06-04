@@ -9,7 +9,10 @@
   VARIABLES
   
   What is a variable?  
-  Simply put, it's a name that points to the place in memory where a value is kept.  You pick a useful name to store some value and the program retains that name.  When you want to use that value, you use the variable name you gave it. Note: a variable does not have quotes around it (that's a string). 
+  Simply put, it's a name that points to the place in memory where a value is stored.  
+  You pick a useful name to store some value and the program retains that name.  
+  When you want to use that value, you use the variable name you gave it. 
+  Note: a variable does not have quotes around it (that's a string). 
   
   to declare a variable, you need:
   
