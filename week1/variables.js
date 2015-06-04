@@ -1,17 +1,13 @@
 /* Variables, Datatypes, Expressions, Statements, Functions */
 
 /*
-  
-*/
-
-/*
 
   VARIABLES
   
-  What is a variable? 
-  A number, a string (anything in quotes) or a true or false value.
+  What is a variable? A number, a string (anything in quotes) or a true or false value.
+  
   A variable's name lets you keep tabs on a place in your computer where a specific value is stored, 
-  and you can change that value if you want by accessing the variable and .
+  and you can change that value if you want by referring to that variable by name and assigning it another value .
   You pick a useful name to store some value and the program retains that value for you under tha name you gave it while the program runs.  
   When you want to use that value, you use the variable name you gave it. 
   Note: a variable's name does not have quotes around it (that's a string). 
