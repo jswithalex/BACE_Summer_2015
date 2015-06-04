@@ -7,6 +7,15 @@
 
 ## Course Description:
 
+**Start Date**: 6/11/2015
+
+**End Date**: 7/30/2015
+
+**Dates we skip**: tbd
+
+**Time & Duration**: Thursdays, 7-9pm. 8 weeks
+
+
 This class will teach you the fundamentals of JavaScript and help you develop the skills to extend the functionality of websites built with HTML and CSS.  
 
 The first three weeks will be focused on the JavaScript language.  The remaining five will focus on adapting our JavaScript knowledge to the browser environment as well as learning to use the JQuery library.
@@ -24,13 +33,6 @@ The first three weeks will be focused on the JavaScript language.  The remaining
 
 Check out [this screencast](https://www.youtube.com/watch?v=UqBG35oWdlE&feature=youtu.be) for an overview of the tools we'll be using in this course.
 
-**Start Date**: 6/11/2015
-
-**End Date**: 7/30/2015
-
-**Dates we skip**: tbd
-
-**Time & Duration**: Thursdays, 7-9pm. 8 weeks
 
 ### Syllabus
 
