@@ -1,20 +1,17 @@
-## Programming with JavaScript and jQuery
-
-
-
+# Programming with JavaScript and jQuery
 
 ## Quick-Links
 + [Course Description](#course-description)
 + [Syllabus](#syllabus)
 
 
-### Course Description:
+## Course Description:
 
 This class will teach you the fundamentals of JavaScript.  We will then get acquainted with the JQuery library and use  this knowledge as a basis for extending the functionality of websites built with HTML and CSS.     
 
-#### Pre-Requisites:
+## Pre-Requisites:
 
-+ A working knowledge of HTML and CSS (you should know how to put elements on a page and style them with CSS)
++ A working knowledge of HTML and CSS (you should know how to put elements on a page and style them with CSS).  If you don't know HTML and CSS at the start of the course, you can use the first few weeks to catch up, as we will be solely devoting our time to learning JavaScript then.  I recommend [Shay Howe's website] (http://learn.shayhowe.com) to learn HTML/CSS.
 + (not strictly required, but highly recommended) A GitHub account to save your work easily on the web.  
 
 **Start Date**: 6/11/2015
