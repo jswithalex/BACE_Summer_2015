@@ -3,7 +3,8 @@
 ## Quick-Links
 + [Course Description](#course-description)
 + [Syllabus](#syllabus)
-
++ [HTML/CSS primer Screencast] (https://www.youtube.com/watch?v=IHoEX_Ncvf8&feature=youtu.be)
++ [Our tools and Workflow]()
 
 ## Course Description:
 
@@ -31,7 +32,7 @@ The first three weeks will be focused on the JavaScript language.  The remaining
 
 ## Tools and Workflow
 
-Check out [this screencast](https://www.youtube.com/watch?v=IHoEX_Ncvf8&feature=youtu.be) for an overview of the tools we'll be using in this course.
+Check out [this screencast]() for an overview of the tools we'll be using in this course.
 
 
 ### Syllabus
