@@ -31,7 +31,7 @@ The first three weeks will be focused on the JavaScript language.  The remaining
 
 ## Tools and Workflow
 
-Check out [this screencast](https://www.youtube.com/watch?v=UqBG35oWdlE&feature=youtu.be) for an overview of the tools we'll be using in this course.
+Check out [this screencast](https://www.youtube.com/watch?v=IHoEX_Ncvf8&feature=youtu.be) for an overview of the tools we'll be using in this course.
 
 
 ### Syllabus
