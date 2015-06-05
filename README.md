@@ -4,7 +4,7 @@
 + [Course Description](#course-description)
 + [Syllabus](#syllabus)
 + [HTML/CSS primer Screencast] (https://www.youtube.com/watch?v=IHoEX_Ncvf8&feature=youtu.be)
-+ [Our tools and Workflow]()
++ [Our tools and Workflow](https://www.youtube.com/watch?v=UqBG35oWdlE&feature=youtu.be)
 
 ## Course Description:
 
