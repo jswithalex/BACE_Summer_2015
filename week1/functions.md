@@ -2,7 +2,7 @@
 
 I'm going to start with the topic of functions, which would usually be discussed in week 2 or 3 in a course like this.  My goal is to talk a little bit about what a program is from a bird's eye view and then start in on programming at ground-level.
 
-In a "real-world" situation, we might be forced with a problem or a service that we'd like to provide to users.  Treating the task as one big problem is often overwhelming, so it's best to break the ultimate problem into a set of simpler problems that take care of a distinct part of the overall problem. When solved together, these simpler problems yield the result we want. 
+In a "real-world" situation, we might be forced with a problem or a service that we'd like to provide to users.  Whatever the task may be, treating its soluation as one big problem is often overwhelming and inefficient, so it's best to break the ultimate problem into a set of simpler problems that take care of a distinct part of the overall problem. This is where functions come in.  They help you structure your approach to solving a problem.  When you solved in conjunction, these simpler problems produce the result we want. 
 
 Here's an example: If I want to get the top five most frequent words that a given Twitter user tweets over the course of a week, there are set of smaller problems that I need to solve in order to get the final result.  I need to:
 
