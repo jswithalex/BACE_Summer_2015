@@ -21,8 +21,12 @@ var user_last  =  'Jordan';
 console.log(user_age);
 
 // EXERCISE 1: log the values of user_first and user_last
+
 // EXERCISE 2: add the first and last names with +
+
 // EXERCISE 3: log twice the user's age
+
+// EXERCISE 4: change user_age so that the value is twice the user's original age
 
 
 
@@ -44,7 +48,7 @@ if (user_age > voting_age) {
 
 else {
 
-// EXERCISE 4: log a message that the user can't vote.
+// EXERCISE 5: log a message that the user can't vote.
 
 }
 
@@ -61,8 +65,9 @@ function get_length(name) {
 
 var user_name_length = get_length(user_name);
 
-// EXERCISE 5: WHY DOES THIS FAIL?
-get_length(user_age);
+// EXERCISE 6: Can you make a guess as to why this fails? Uncomment it and reload the html page to see the error. 
+
+// get_length(user_age);
 
 
 
