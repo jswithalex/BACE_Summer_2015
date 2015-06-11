@@ -16,7 +16,7 @@
   + Course Syllabus
   + Weekly folders containing assignments, in-class files, demonstrations, and more.
   
-**HTML/CSS core concepts:** (SKIP?)
+**HTML/CSS core concepts:**
 
   + HTML is a markup language that tells the browser which widgets to create
   + it is a tree-like structure, nested structure
