@@ -12,17 +12,20 @@
   + last 5 weeks - JS in web environment (HTML is important here)
 
 **The Github Repository:**
-  
+  + https://github.com/jswithalex/BACE_Summer_2015/
   + Course Syllabus
   + Weekly folders containing assignments, in-class files, demonstrations, and more.
   
-**HTML/CSS core concepts:**
+**HTML/CSS core concepts:** (SKIP?)
 
-  + HTML is a tree-like, nested structure
-  + turning CSS styles off and on with JavaScript
-    + hiding and displaying elements
+  + HTML is a markup language that tells the browser which widgets to create
+  + it is a tree-like structure, nested structure
+  + CSS augments the HTML elements
+  + We can turn styles off and on with JavaScript
+  + We can hide and display elements
 
 **Our Workflow:**
+
   + downloading course files: https://www.github.com/jswithalex
   + on-the-fly coding / viewing script results: Web Browser JavaScript Console
   + writing our script files: TextWrangler
@@ -38,7 +41,13 @@
   + all Javascript code happens in a function
   + functions are defined first and then executed in your program according to your code
   
-####  [ EXERCISES START HERE ]
+# Exercises: 
+  
+  + Download course Zip file from https://github.com/jswithalex/BACE_Summer_2015/
+  + open TextWrangler
+  + open week 1 folder
+  + click on 'exercises.html' so the web browser loads it
+  + 
 
 ## Variables
 
