@@ -15,13 +15,14 @@ HTML/CSS core concepts:
 
   + HTML is a tree-like, nested structure
   + turning CSS styles off and on with JavaScript
+    + toggling hidden
   
 ####  Functions 
 
 The high-level view of a JavaScript program:
 
   + division of a problem into smaller problems
-  + twitter analysis example: connect to server, perform search query, store data, apply algorithm to data
+  + twitter analysis example: connect to server, perform search query, store data, apply algorithm to data, present results
   + each step in the twitter analysis should be a function
   + functions work well for this
   + all Javascript code happens in a function
