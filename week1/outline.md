@@ -23,11 +23,15 @@ The high-level view of a JavaScript program:
   + all Javascript code happens in a function
   + functions are defined and then called
   
+[[ EXERCISES START HERE ]]
+
 ## Variables
 
 What variables are, what they are not:
   
-  + Variables are names for storage locations
-  + we create a storage location like this: `var my_name;`
+  + variables are names for storage locations
+  + The Javascript engine does the work so that you can conveniently get 20 back by referring to 'my_number';
+  + variables are not the values they store
+  + we create a storage location with this javascript code: `var my_name;`
   + we put a value in that storage location like this: `var my_name = 'alex';`
-  
+
