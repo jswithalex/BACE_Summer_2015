@@ -39,48 +39,7 @@ Check out [this screencast]() for an overview of the tools we'll be using in thi
 
 | Week 1 | Introduction to JavaScript Datatypes |
 |:-------------:|:-----|
-| reading     |  |
+| reading     |  [http://eloquentjavascript.net/01_values.html] Eloquent JavasCript - Chapter 1 |
 |             | |
-| assignment    |  |
+| assignment    | [week 1 assignment] () |
  
-| Week 2 |  |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 3 |  |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 4 | |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 5 |  |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 6 | |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 7 | |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
-
-| Week 8 | |
-|:-------------:|:-----|
-| reading     |  |
-|             | |
-| assignment    |  |
