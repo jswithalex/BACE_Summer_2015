@@ -19,7 +19,7 @@
 
 This class will teach you the fundamentals of JavaScript and help you develop the skills to build page widgets and add logic to your HTML and CSS webpages.  
 
-The first three weeks will be focused on the JavaScript language.  The remaining five will focus on applying your JavaScript knowledge to the browser environment and learning to use the JQuery library.
+The first three weeks will be focused on the JavaScript language.  The remaining five will focus on applying it in the browser with the help of the JQuery library.
 
 
 ## Pre-Requisites
