@@ -4,13 +4,13 @@
 
 Course Structure:
 
-  first 3 weeks - Javascript language
-  last 5 weeks - JS in web environment (HTML is important here)
+  + first 3 weeks - Javascript language
+  + last 5 weeks - JS in web environment (HTML is important here)
 
 HTML/CSS core concepts:
 
-  HTML is a tree-like, nested structure
-  turning CSS styles off and on with JavaScript
+  + HTML is a tree-like, nested structure
+  + turning CSS styles off and on with JavaScript
   
 ## Functions 
 
