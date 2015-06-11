@@ -26,7 +26,7 @@ The first three weeks will be focused on the JavaScript language.  The remaining
 
 + The only hard pre-requisite for this course is familiarity with the internet and using a web browser.
 
-+ With that said, you will need a working knowledge of HTML and CSS to get the most out of this course.  By the start of week four you will want to know how to put HTML elements on a page and apply basic styles with CSS.  If you need some HTML and CSS resources, I recommend [Shay Howe's website] (http://learn.shayhowe.com) and [my HTML and CSS primer vide on YouTube] (http://youtu.be/5PEPMF5UIeA) as comprehensive and practical resources.
++ With that said, you will need a working knowledge of HTML and CSS to get the most out of this course.  By the start of week four you will want to know how to put HTML elements on a page and apply basic styles with CSS.  If you need some HTML and CSS resources, I recommend [Shay Howe's website] (http://learn.shayhowe.com) and [my HTML and CSS primer video on YouTube] (http://youtu.be/5PEPMF5UIeA) as comprehensive and practical resources.
 
 + Suggestion: create a GitHub account and make a javascript repository to save your work easily on the web.  
 
