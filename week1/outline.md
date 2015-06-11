@@ -23,7 +23,7 @@ The high-level view of a JavaScript program:
   + all Javascript code happens in a function
   + functions are defined and then called
   
-[[ EXERCISES START HERE ]]
+## [ EXERCISES START HERE ]
 
 ## Variables
 
