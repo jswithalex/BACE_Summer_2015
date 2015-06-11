@@ -1,6 +1,5 @@
 ## Week 1 Outline
 
-#### Introduction
 
 **Introductions:**
   + your name and what you hope to get out of this course
