@@ -1,6 +1,6 @@
-#### Week 1 Outline
+## Week 1 Outline
 
-## Introduction
+#### Introduction
 
 Course Structure:
 
@@ -12,7 +12,7 @@ HTML/CSS core concepts:
   + HTML is a tree-like, nested structure
   + turning CSS styles off and on with JavaScript
   
-## Functions 
+####  Functions 
 
 The high-level view of a JavaScript program:
 
@@ -23,7 +23,7 @@ The high-level view of a JavaScript program:
   + all Javascript code happens in a function
   + functions are defined and then called
   
-## [ EXERCISES START HERE ]
+####  [ EXERCISES START HERE ]
 
 ## Variables
 
