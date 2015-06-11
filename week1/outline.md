@@ -21,6 +21,11 @@
   + HTML is a tree-like, nested structure
   + turning CSS styles off and on with JavaScript
     + hiding and displaying elements
+
+**Our Workflow:**
+  + downloading course files: https://www.github.com/jswithalex
+  + on-the-fly coding / viewing script results: Web Browser JavaScript Console
+  + writing our script files: TextWrangler
   
 ####  Functions 
 
