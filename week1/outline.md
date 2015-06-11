@@ -25,17 +25,19 @@ The high-level view of a JavaScript program:
   + each step in the twitter analysis should be a function
   + functions work well for this
   + all Javascript code happens in a function
-  + functions are defined and then called
+  + functions are defined first and then executed in your program according to your code
   
 ####  [ EXERCISES START HERE ]
 
 ## Variables
 
-What variables are, what they are not:
-  
+The street-level view of a Javscript program:
+
   + variables are names for storage locations
-  + The Javascript engine does the work so that you can conveniently get 20 back by referring to 'my_number';
+  + The Javascript engine does work behind the scenes so that, for example, you can conveniently get 20 back by referring to 'my_number';
   + variables are not the values they store
   + we create a storage location with this javascript code: `var my_name;`
   + we put a value in that storage location like this: `var my_name = 'alex';`
+  + The first is called declaration
+  + The second is called assignment
 
