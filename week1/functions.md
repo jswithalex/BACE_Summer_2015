@@ -40,11 +40,3 @@ show_results(word_count);
 
 Notice that the function names are pretty clear in indicating what is probably going on.
 
-## Variables
-
-Variables are names for values that you want to store and be able to conveniently refer to.
-
-var name = value // ok
-var me ='alex'
-var age = 5000
-var can_vote = true
