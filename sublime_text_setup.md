@@ -10,7 +10,7 @@ I've decided it's easier to write JavaScript and run it in a single program.  Th
 
 2) With Sublime Text open:
   + go to 'Tools' > 'Build System' > 'New Build System'
-  + copy and paste the following into the window that pops up:
+  + copy and replace what's in the file with the following:
 
 ````
 {
@@ -18,7 +18,7 @@ I've decided it's easier to write JavaScript and run it in a single program.  Th
 "selector": "source.js"
 }
 ````
-  + save that file (Apple + 'S')
+  + save that file (Apple + 'S') as javascript.sublime-build
   + open a new file and save it as <whatever_you_want>.js
   + type JavaScript code in and run it (Apple + B)
   
