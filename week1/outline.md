@@ -6,7 +6,11 @@ Course Structure:
 
   + first 3 weeks - Javascript language
   + last 5 weeks - JS in web environment (HTML is important here)
-
+ 
+Introductions:
+  + your name and what you hope to get out of this course
+  + a little bit about me
+  
 HTML/CSS core concepts:
 
   + HTML is a tree-like, nested structure
