@@ -2,7 +2,8 @@
 
 
 **Introductions:**
-  + your name and what you hope to get out of this course
+
+  + your name, anything you want to mention with regard to your programming/ web background, and what you hope to get out of this course
   + a little bit about me
 
 **Course Structure:**
@@ -19,11 +20,11 @@
 
   + HTML is a tree-like, nested structure
   + turning CSS styles off and on with JavaScript
-    + toggling hidden
+    + hiding and displaying elements
   
 ####  Functions 
 
-**A high-level view of a JavaScript program:**
+**A high-level view of a computer program:**
 
   + division of a problem into smaller problems
   + twitter analysis example: connect to server, perform search query, store data, apply algorithm to data, present results
@@ -41,8 +42,6 @@
   + variables are names for storage locations
   + The Javascript engine does work behind the scenes so that, for example, you can conveniently get 20 back by referring to 'my_number';
   + variables are not the values they store
-  + we create a storage location with this javascript code: `var my_name;`
-  + we put a value in that storage location like this: `var my_name = 'alex';`
-  + The first is called declaration
-  + The second is called assignment
+  + we create a storage location with this javascript code: `var my_name;`.  This is called a declaration.
+  + we put a value in that storage location like this: `my_name = 'alex';`. This is called a assignment.
 
