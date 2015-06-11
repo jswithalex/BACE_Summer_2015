@@ -1,10 +1,11 @@
-// 
 //
 // VARIABLES
 //
 // a variable stores a value under a name 
 //
+// we can later access that value by that name
 //
+
 
 var user_age   =  24;
 var user_first =  'Mike';
@@ -29,7 +30,9 @@ console.log(user_age);
 //
 // CONTROL FLOW
 //
-
+// our code can act conditionally: it will do one thing if case A is true and another if A is not true.
+// 
+// 
 
 var voting_age = 18;
 
@@ -44,6 +47,23 @@ else {
 // EXERCISE 4: log a message that the user can't vote.
 
 }
+
+//
+//
+//  FUNCTIONS
+//
+//  Functions let us divide our code into sub-units
+//
+
+function get_length(name) {
+  return name.length;
+}
+
+var user_name_length = get_length(user_name);
+
+// EXERCISE 5: WHY DOES THIS FAIL?
+get_length(user_age);
+
 
 
 
