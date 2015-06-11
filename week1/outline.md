@@ -20,6 +20,14 @@ The high-level view of a JavaScript program:
   + twitter analysis example: connect to server, perform search query, store data, apply algorithm to data
   + each step in the twitter analysis should be a function
   + functions work well for this
+  + all Javascript code happens in a function
   + functions are defined and then called
   
+## Variables
 
+What variables are, what they are not:
+  
+  + Variables are names for storage locations
+  + we create a storage location like this: `var my_name;`
+  + we put a value in that storage location like this: `var my_name = 'alex';`
+  
