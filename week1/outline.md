@@ -2,16 +2,21 @@
 
 #### Introduction
 
-Introductions:
+**Introductions:**
   + your name and what you hope to get out of this course
   + a little bit about me
 
-Course Structure:
+**Course Structure:**
 
   + first 3 weeks - Javascript language
   + last 5 weeks - JS in web environment (HTML is important here)
+
+**The Github Repository:**
   
-HTML/CSS core concepts:
+  + Course Syllabus
+  + Weekly folders containing assignments, in-class files, demonstrations, and more.
+  
+**HTML/CSS core concepts:**
 
   + HTML is a tree-like, nested structure
   + turning CSS styles off and on with JavaScript
@@ -19,7 +24,7 @@ HTML/CSS core concepts:
   
 ####  Functions 
 
-The high-level view of a JavaScript program:
+**A high-level view of a JavaScript program:**
 
   + division of a problem into smaller problems
   + twitter analysis example: connect to server, perform search query, store data, apply algorithm to data, present results
@@ -32,7 +37,7 @@ The high-level view of a JavaScript program:
 
 ## Variables
 
-The street-level view of a Javscript program:
+**The street-level view of a Javscript program:**
 
   + variables are names for storage locations
   + The Javascript engine does work behind the scenes so that, for example, you can conveniently get 20 back by referring to 'my_number';
