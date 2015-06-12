@@ -7,21 +7,23 @@
 //
 
 
-// var means 'variable' 
-// NAMES and VALUES
+// var indicates that the next word is going to be name of a variable
+
 var user_age   =  24; // integer
+
+// user_age is the name for the storage location where 24 is kept
+
+// user_age 
+
 var user_first =  'Mike'; // string 
 var user_last  =  'Jordan'; // string
 var user_statement = "My name is 'Mike' ";
 
+debug(user_age);
+debug(user_first);
+debug(user_last);
 
-//debug(user_age);
-//debug(user_first);
-//debug(user_last);
-
-
-
-//EXERCISE 2: add the first and last names together with a plus sign
+//EXERCISE 2: add the first and last names together with a plus sign.
 
 //using the + symbol, 'mike' and 'jordan' becomes 'mikejordan'
 
@@ -30,20 +32,17 @@ var user_statement = "My name is 'Mike' ";
 
 //var user_full_name = user_first + ' ' + user_last;
 
-//debug(user_age--); // post-increment
-//debug(--user_age); // pre-increment
-//debug(user_first + 5);
+debug(user_age--); // post-increment
+debug(--user_age); // pre-increment
+debug(user_first + 5);
 
 
 
-//var canVote = (user_age >= 18);
-//var canVote = user_age >= 18;
+var canVote = (user_age >= 18);
+var canVote = user_age >= 18;
 
 
 
-
-
-//combines user_first and user_last
 
 // EXERCISE 4: log twice the user's age
 
@@ -63,7 +62,7 @@ var user_statement = "My name is 'Mike' ";
 // 
 // 
 
-/*
+
 if (9 > 10) {
 
 	debug('9 is greater than 10!');
@@ -74,10 +73,9 @@ if (9 > 10) {
 if (9 < 10) {
 	debug('9 is less than 10!')
 }
-*/
 
 
-// EXERCISE: 
+
 
 var pw = '$xihwefU7!';
 debug(pw.length);
