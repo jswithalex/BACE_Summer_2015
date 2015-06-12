@@ -18,7 +18,7 @@ else {
 
 ````
 
-## An Array of Names
+#2 An Array of Names
 
 We didn't talk about this in class, but  an `array` is a container for multiple variables. It's useful if we want to store a collection of data in a sequence where we can depend on the order remaining the same each time we access it. 
 
@@ -43,6 +43,6 @@ The exercise:
   + then remove them from that array by calling the  `names.pop()` function until the array is empty again
   + verify the array's length with `names.length`.  Notice we used the `.length` property on a string.  we can also use it on an array.
 
-EXERCISE 3:
+# 3 - Fahrenheit and Celcius Conversion
 
 Use JavaScript to convert 12 degrees Celcius to Fahrenheit.  Convert 98 degrees Fahrenheit to Celcius.
