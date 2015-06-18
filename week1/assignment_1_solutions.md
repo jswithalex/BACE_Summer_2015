@@ -1,4 +1,19 @@
 ## 1
+
+````javascript
+
+var user_pw = '$FA8*xuD9';
+var user_attempt = '$FA8*xuD8';
+
+if ( user_pw === user_attempt ) {
+  debug('user admitted');
+}
+else {
+  debug('unsuccessful match. please try again.');
+}
+
+````
+
 ## 2
 ## 3
 
