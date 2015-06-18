@@ -39,7 +39,15 @@ Check out [this screencast]() for an overview of the tools we'll be using in thi
 
 | Week 1 | Introduction to JavaScript Datatypes |
 |:-------------:|:-----|
-| reading     |  [http://eloquentjavascript.net/01_values.html] Eloquent JavasCript - Chapter 1 |
+| reading     |  [Eloquent JavasCript, Chapter 1: Values](http://eloquentjavascript.net/01_values.html)  |
+|             | |
+| assignment    | [week 1 assignment](https://github.com/jswithalex/BACE_Summer_2015/blob/master/week1/assignment_1.md) |
+
+| Week 2 | Arrays, While Loops, Functions |
+|:-------------:|:-----|
+| reading     |  [Eloquent JavaScript, Chapter 2: Program Structure](http://eloquentjavascript.net/02_program_structure.html) |
 |             | |
 | assignment    | [week 1 assignment] (https://github.com/jswithalex/BACE_Summer_2015/blob/master/week1/assignment_1.md) |
  
+ 
+http://eloquentjavascript.net/02_program_structure.html
