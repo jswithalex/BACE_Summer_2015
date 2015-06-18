@@ -15,6 +15,13 @@ else {
 ````
 
 ## 2
+
+var names = [];
+
+names.push('bob');
+names.push('mary');
+
+
 ## 3
 
 ````javascript
