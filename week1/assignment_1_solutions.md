@@ -16,7 +16,6 @@ else {
 
 ## 2
 
-# 'bob', 'mary', 'mark', 'jeanne', 'jack', 'anne'
 names.push('bob');
 names.push('mary');
 names.push('mark');
