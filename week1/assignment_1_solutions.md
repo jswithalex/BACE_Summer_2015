@@ -16,6 +16,7 @@ else {
 
 ## 2
 
+````javascript
 names.push('bob');
 names.push('mary');
 names.push('mark');
@@ -46,6 +47,7 @@ console.log(names.length);
 
 names.pop()
 console.log(names.length);
+````
 
 ## 3
 
