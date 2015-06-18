@@ -16,11 +16,37 @@ else {
 
 ## 2
 
-var names = [];
-
+# 'bob', 'mary', 'mark', 'jeanne', 'jack', 'anne'
 names.push('bob');
 names.push('mary');
+names.push('mark');
+names.push('jeanne');
+names.push('jack');
+names.push('anne');
 
+console.log(names);
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
+
+names.pop()
+console.log(names.length);
 
 ## 3
 
