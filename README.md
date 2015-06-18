@@ -41,5 +41,5 @@ Check out [this screencast]() for an overview of the tools we'll be using in thi
 |:-------------:|:-----|
 | reading     |  [http://eloquentjavascript.net/01_values.html] Eloquent JavasCript - Chapter 1 |
 |             | |
-| assignment    | [week 1 assignment] () |
+| assignment    | [week 1 assignment] (https://github.com/jswithalex/BACE_Summer_2015/blob/master/week1/assignment_1.md) |
  
