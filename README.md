@@ -47,7 +47,7 @@ Check out [this screencast]() for an overview of the tools we'll be using in thi
 |:-------------:|:-----|
 | reading     |  [Eloquent JavaScript, Chapter 2: Program Structure](http://eloquentjavascript.net/02_program_structure.html) |
 |             | |
-| assignment    | [week 1 assignment](https://github.com/jswithalex/BACE_Summer_2015/blob/master/week2/assignment.md) |
+| assignment    | [week 2 assignment](https://github.com/jswithalex/BACE_Summer_2015/blob/master/week2/assignment.md) |
  
  
 http://eloquentjavascript.net/02_program_structure.html
