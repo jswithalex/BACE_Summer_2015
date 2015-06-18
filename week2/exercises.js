@@ -144,7 +144,8 @@ debug(names2);
 
 //   :: Functions ::
 
-// Functions are self-contained sections of code within your program.
+// "the idea of writing a program is to make something less work" - Axel Rauschmeyer, Eloquent JavaScript, Ch 2
+// Functions are self-contained and (should be ) reusable sections of code within your program.
 // They can receive input values and give output values back, but they 
 // don't require input or output values.
 // Input values are called arguments
