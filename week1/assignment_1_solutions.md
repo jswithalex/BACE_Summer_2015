@@ -44,9 +44,6 @@ console.log(names.length);
 
 names.pop()
 console.log(names.length);
-
-names.pop()
-console.log(names.length);
 ````
 
 ## 3
