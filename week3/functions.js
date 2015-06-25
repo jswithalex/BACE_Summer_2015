@@ -9,7 +9,7 @@
 
 // Here are some built-in functions that we don't have to write
 // .split()
-// math.pow()
+// Math.pow()
 // array.pop()
 
 
