@@ -1,27 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype>
+<html>
 <head>
-  <meta charset="UTF-8">
-  <link type="text/css" rel="stylesheet"  href="style.css">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <title>Image Gallery v1 Demo</title>
+  <style>
+    
+  </style>
 </head>
 <body>
 
-  <article>
-  <div class="gallery">
-    <h1>My photos of Iceland</h1>
-    <ul id="image-list">
-      <li><i class="fa fa-picture-o"></i><a href="0.jpg"> gullfoss</a></li>
-      <li><i class="fa fa-picture-o"></i><a href="2.jpg"> farmland</a></li>
-      <li><i class="fa fa-picture-o"></i><a href="3.jpg"> bottom of a glacier</a></li>
-      <li><i class="fa fa-picture-o"></i><a href="4.jpg"> sunset</a></li>
-      <li><i class="fa fa-picture-o"></i><a href="5.jpg"> ice sculptures</a></li>
-    </ul>
-    <img id="placeholder" src="0.jpg" alt="image gallery"/>
-  </div>
-  </article>
-  
+<img src="img/0.jpg" />
+<ul>
+  <li><a href="img/0.jpg">image 1</a></li>
+  <li><a href="img/1.jpg">image 2</a></li>
+  <li><a href="img/2.jpg">image 3</a></li>
+  <li><a href="img/3.jpg">image 4</a></li>
+  <li><a href="img/4.jpg">image 5</a></li>
+  <li><a href="img/5.jpg">image 6</a></li>
+  <li><a href="img/6.jpg">image 7</a></li>
+  <li><a href="img/7.jpg">image 8</a></li>
+  <li><a href="img/8.jpg">image 9</a></li>
+</ul>
 
-  <script src="script.js"></script>
+<script>
+
+  // establish the elements we need to reference for the image swap 
+  var ul = document.getElementsByTagName('ul')[0];
+  var img = document.getElementsByTagName('img')[0];
+
+  // set our replaceImg function to run when the ul is clicked 
+  ul.onclick = replaceImg;
+
+  // write the function to do the swap
+  function replaceImg(e){
+
+    if (e.target.nodeName === 'A')
+    {
+      // prevent the normal behavior, aka don't go to the url 'img0.jpg'
+      e.preventDefault();
+      img.src = e.target.href;
+    }
+  }
+</script>
 </body>
 </html>
