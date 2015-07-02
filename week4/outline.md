@@ -1,3 +1,6 @@
+## Image Gallery Link for Today's Class
+http://tinyurl.com/p3r8t9s
+
 ## Concepts:
 
   + server and client relationship
