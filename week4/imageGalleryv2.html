@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<img id="main_image" src="img/0.jpg"></img>
+<ul>
+
+	<li><a href="img/0.jpg">Image 1</a></li>
+	<li><a href="img/1.jpg">Image 2</a></li>
+	<li><a href="img/2.jpg">Image 3</a></li>
+	<li><a href="img/3.jpg">Image 4</a></li>
+	<li><a href="img/4.jpg">Image 5</a></li>
+	<li><a href="img/5.jpg">Image 6</a></li>
+	<li><a href="img/6.jpg">Image 7</a></li>
+	<li><a href="img/7.jpg">Image 8</a></li>
+
+</ul>
+<script>
+
+  var image = document.getElementById('main_image');
+  var links = document.getElementsByTagName('UL')[0];
+  links.onclick = swapImage;
+  
+  function swapImage(e) {
+  	if (e.target.nodeName === 'A') {
+      console.log('ahhhhh');
+      e.preventDefault();
+    }
+  }
+  
+
+</script>
+</body>
+</html>
