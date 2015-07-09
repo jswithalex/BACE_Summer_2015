@@ -6,17 +6,26 @@
     ul { list-style-type: none; text-align: left; display: inline-block; margin: 0; padding: 0; padding-top: 20px;}
     li {margin: 0; padding: 0; }
     input { height: 40px; width: 320px; font-size: 100%;}
+    button { vertical-align: top; border:1px solid gray; background: white; height: 45px; width: 60px;}
+    button:hover { vertical-align: top; border:1px solid gray; color: white; background: gray; height: 45px; width: 60px;}
   </style>
 </head>
 <body>
-<h1>Grocery List</h1>
-<form>
-  <input id="input">
-</form>
-<ul id="list"></ul>
+
+  <!-- HTML ELEMENTS -->
+  <h1>Grocery List</h1>
+  <form>
+    <input id="input">
+    <button type="submit" >add</button>
+  </form>
+  <ul id="list"></ul>
+
+  <!-- JAVASCRIPT CODE -->
 <script type="text/javascript">
 var list = document.getElementById('list');
 var input = document.getElementById('input');
+var form = document.getElementsByTagName('form')[0];
+var button = document.getElementsByTagName('button')[0];
 
 var groceries = ['apple','banana','bread','milk'];
 groceries.forEach( function(item,index) {
@@ -25,14 +34,9 @@ groceries.forEach( function(item,index) {
   list.innerHTML += list_item;
 });
 
-list.onclick = function(event) {
-  if (event.target.nodeName === 'LI') {
-    event.preventDefault();
-    var parent = event.target.parentNode;
-    parent.removeChild(event.target);
-  }
-};
 
+
+<!-- END OF BODY -->
 </script>
 </body>
 </html>
