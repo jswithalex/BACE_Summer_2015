@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+    body {background: lightblue; text-align: center; font-size: 2em; font-family: sans-serif}
+    ul { list-style-type: none; text-align: left; display: inline-block; margin: 0; padding: 0; padding-top: 20px;}
+    li {margin: 0; padding: 0; }
+    input { height: 40px; width: 320px; font-size: 100%;}
+  </style>
+</head>
+<body>
+<h1>Grocery List</h1>
+<form>
+  <input id="input">
+</form>
+<ul id="list"></ul>
+<script type="text/javascript">
+var list = document.getElementById('list');
+var input = document.getElementById('input');
+
+var groceries = ['apple','banana','bread','milk'];
+groceries.forEach( function(item,index) {
+  console.log(item);
+  var list_item = '<li>' + item  + '</li>';
+  list.innerHTML += list_item;
+});
+
+list.onclick = function(event) {
+  if (event.target.nodeName === 'LI') {
+    event.preventDefault();
+    var parent = event.target.parentNode;
+    parent.removeChild(event.target);
+  }
+};
+
+</script>
+</body>
+</html>
