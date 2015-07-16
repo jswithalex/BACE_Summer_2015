@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="admin-panel">
+    <ul id="mylists" class="admin-item">
+      <li id="mylists-header">mylists</li>
+      <li class="hidden" class="mylists-list">one</li>
+      <li class="hidden" class="mylists-list">two</li>
+      <li class="hidden" class="mylists-list">three</li>
+    </ul>
+  </div>
+
+  <form id="task-title">
+    <h1 id="task-title-h1" tabindex=1>Name Me</h1>
+  </form>
+  <form id="task-data">
+    <input id="task-data-input">
+    <button type="submit" >add</button>
+  </form>
+  <ul id="task-list"></ul>
+<script src="title.js"></script>
+<script src="tasklist.js"></script>
+<script src="storage.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>
