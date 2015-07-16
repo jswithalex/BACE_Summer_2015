@@ -15,4 +15,3 @@ task_data_form.onsubmit = function(event) {
 
 /* actual task list */
 var task_list = document.getElementById('task-list');
-~                                                      
