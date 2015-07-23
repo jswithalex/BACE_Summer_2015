@@ -4,41 +4,7 @@
   <meta charset="UTF-8">
   <link type="icon" rel="stylesheet"  href="/favicon.ico">
   <link type="text/css" rel="stylesheet"  href="style.css">
-  <style>
-  html,
-body
-{
-  font-family: optima;
-  font-size: 130%;
-  background: khaki;
-}
 
-html,
-body,
-h1,
-ul,
-li
-{
-  margin: 0;
-  padding: 0;
-}
-
-h1
-{ position: relative; top: 0; left: 0; background: white; height: 180px; line-height: 180px; padding-left: 20px;}
-
-a {color: black; text-decoration: none}
-li { list-style-type: none;}
-li {cursor: pointer}
-ul,
-li {padding: 0; margin: 0}
-#menu { background: white; max-width: 20%; min-width: 200px; padding: 20px;}
-#menu > li { list-style-type: none;}
-.submenu li { background: aliceblue;}
-span {font-weight: bold}
-.hidden {display: none;}
-.visible { display: block;}
-
-  </style>
 </head>
 <body>
   <h1>Akai Professional</h1>
@@ -73,14 +39,6 @@ span {font-weight: bold}
     </li>
   </ul>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
-<script>
-// select items in a way similar to document.querySelectorAll
-$('#menu > li').on('click',function(e) {
-  if ($(this).children().length) {
-    $(this).children().not('span').toggleClass('hidden');
-  }
-});
-
-</script>
+<script src="menu.js"></script>
 </body>
 </html>
