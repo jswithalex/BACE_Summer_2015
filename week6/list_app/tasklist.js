@@ -2,6 +2,9 @@
 var task_data_form = document.getElementById('task-data');
 var task_data_input = document.getElementById('task-data-input');
 
+/* Task list */
+var task_list = document.getElementById('task-list');
+
 task_data_form.onsubmit = function(event) {
   event.preventDefault();
   var task_text = task_data_input.value.trim(' ');
@@ -13,5 +16,4 @@ task_data_form.onsubmit = function(event) {
   }
 }
 
-/* actual task list */
-var task_list = document.getElementById('task-list');
+
