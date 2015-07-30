@@ -1,8 +1,26 @@
 ## Week 8 Outline (This is our Final Class)
 
 1. Best Practices
-  + var declarations
+  + var declarations at top
+  + variable names matter (they express your mental model of a proram)
   + cache the dom elements
+  + IIFE to prevent your code from being global and thus being overwritten when you use other libraries.
+  + make your code readable
+
+      var lunch = new Array();
+      lunch[0]='Dosa';
+      lunch[1]='Roti';
+      lunch[2]='Rice';
+      lunch[3]='what the heck is this?';
+      
+      vs...
+      
+      var lunch = [
+         'Dosa',
+         'Roti',
+         'Rice',
+         'what the heck is this?'
+      ];
 
 2. Objects
   + an object exercise that develops 'unpacking' skills
@@ -34,4 +52,4 @@ $.getJSON(url, {
 });
 ````
 
-4. Implement a jQuery page fade in effect to mitigate some of the lag from our asynchronous request.
+4. Page Load Perception: Implement a jQuery page fade in effect to mitigate some of the lag from our asynchronous request.
