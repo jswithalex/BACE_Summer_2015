@@ -9,7 +9,7 @@
 */
 
 // API_KEY for openweathermap.org
-var API_KEY = '61beaf11b206ba345f116d0ebe6205c2';
+var API_KEY = '';
 
 // We Get IP location data from ip-api.com using jquery's getJSON method
 // This method is an AJAX request that converts the JSON response data for you
