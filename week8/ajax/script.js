@@ -14,7 +14,7 @@
 */
 
 // API_KEY for openweathermap.org
-var API_KEY = '';
+var API_KEY = '61beaf11b206ba345f116d0ebe6205c2';
 var ip_api_url = 'http://ip-api.com/json';
 var weathermap_url_base = '';
 // We Get IP location data from ip-api.com using jquery's getJSON method
