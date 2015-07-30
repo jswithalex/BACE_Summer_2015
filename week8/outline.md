@@ -5,7 +5,8 @@
   + cache the dom elements
 
 2. Objects
-
+  + an object exercise that develops 'unpacking' skills
+  
 3. Ajax
 
 Ajax stands for Asynchronous Javascript and XML, but these days we use JSON more often than XML.
@@ -16,6 +17,7 @@ In each case, we use the jQuery method $.getJSON(). Documentation here: http://a
 
 $.getJSON is shorthand for this:
 
+````
 $.ajax(
 {
   dataType: 'json',
@@ -30,3 +32,6 @@ $.getJSON(url, {
     // aka www.url.com/api/v2/key=value&key=value ....
   }
 });
+````
+
+4. Implement a jQuery page fade in effect to mitigate some of the lag from our asynchronous request.
